@@ -1,0 +1,73 @@
+/* Style général de la page */
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    background-color: green;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    background-color: brown;
+    color: blueviolet;
+    padding: 20px;
+    text-align: right;
+}
+
+/* Titres */
+h1 {
+    margin: 0;
+}
+
+h2 {
+    color: #ad1d98;
+}
+
+/* Sections */
+section {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+
+/* Style spécifique pour la section intro */
+#intro {
+    border-left: 6px solid #3498db;
+}
+
+/* Paragraphes */
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Liens */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    margin-top: 10px;
+}
+
+/* Ligne horizontale */
+hr {
+    margin: 30px 0;
+}
+
+.serge {
+background-color: aquamarine;
+ font-family: 'Times New Roman', Times, serif;
+ 
+
+
+}

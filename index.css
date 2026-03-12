@@ -1,0 +1,18 @@
+/* Style général de la page */
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: bisque;
+    margin: 0;
+    padding: 20px; }
+
+header { 
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(122, 173, 20); 
+    margin: 0;
+    padding: 20px;}
+
+h2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+
